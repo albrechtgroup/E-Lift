@@ -1,4 +1,4 @@
 package com.capstone.eLift.controllers;
 
-public class RentalsController {
+public class UserController {
 }

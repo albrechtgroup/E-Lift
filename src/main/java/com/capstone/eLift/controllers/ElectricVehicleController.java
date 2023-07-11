@@ -1,4 +1,4 @@
 package com.capstone.eLift.controllers;
 
-public class UsersController {
+public class ElectricVehicleController {
 }
