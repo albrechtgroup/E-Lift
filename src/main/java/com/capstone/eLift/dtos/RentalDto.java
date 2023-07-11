@@ -1,2 +1,4 @@
-package com.capstone.eLift.dtos;public class RentalDto {
+package com.capstone.eLift.dtos;
+
+public class RentalDto {
 }

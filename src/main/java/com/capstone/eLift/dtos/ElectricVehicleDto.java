@@ -1,2 +1,4 @@
-package com.capstone.eLift.dtos;public class ElectricVehicleDto {
+package com.capstone.eLift.dtos;
+
+public class ElectricVehicleDto {
 }
